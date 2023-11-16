@@ -2,7 +2,7 @@
 
 ## Description
 
-Urban-App is a mobile e-commerce application developed using React Native. This app is based on the website Urban Rust. The backend is powered by Strapi and it uses Stripe for the payment system. It allows users to browse products, add them to the cart, and make purchases.
+Urban-App is a mobile e-commerce application developed using React Native. This app is based on the website Urban <https://urban-rust.vercel.app/>. The backend is powered by Strapi and it uses Stripe for the payment system. It allows users to browse products, add them to the cart, and make purchases.
 
 ## Installation
 
