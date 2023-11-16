@@ -27,7 +27,7 @@ Here are some screenshots and a demo video of the app:
 
 | Demo Video | Home Page | Payment | Product Details | Cart |
 | --- | --- | --- | --- | --- |
-|  [DemoViedo](./App/assets/UrbanAppDemo.gif) | [HomePage](./App/assets/HomePage.jpg) | [Payment](./App/assets/Payment.jpg) | [ProductDetails](./App/assets/ProductDetails.jpg) | [cart](./App/assets/cart.jpg) |
+|  ![DemoViedo](./App/assets/UrbanAppDemo.gif) | ![HomePage](./App/assets/HomePage.jpg) | ![Payment](./App/assets/Payment.jpg) | ![ProductDetails](./App/assets/ProductDetails.jpg) | ![cart](./App/assets/cart.jpg) |
 
 ## Contributing
 
