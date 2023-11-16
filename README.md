@@ -12,6 +12,7 @@ To get started with this project, do the following:
 2. Navigate to the project directory and install the dependencies with `npx install-expo-modules@latest`.
 3. Start the application with `npx expo start`.
 
+
 ## Features
 
 - **Product Listing**: The app displays a list of available products for the user to browse.
@@ -22,7 +23,11 @@ To get started with this project, do the following:
 
 ## Demo
 
-A demo video of the app is available in the repository. Screenshots of the app are also included to give you a quick overview of the user interface.
+Here are some screenshots and a demo video of the app:
+
+| Demo Video | Home Page | Payment | Product Details | Cart |
+| --- | --- | --- | --- | --- |
+| !Demo Video | !Home Page | !Payment | !Product Details | !Cart |
 
 ## Contributing
 
